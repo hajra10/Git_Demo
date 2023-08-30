@@ -1,2 +1,4 @@
 # Git_Demo
-this is m first git repositry
+this is my first git repositry
+<br>
+author Hajra
